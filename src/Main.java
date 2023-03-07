@@ -16,5 +16,6 @@ public class Main {
             b++;
         }
         System.out.println(c);
+        System.out.println();
     }
 }
